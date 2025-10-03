@@ -11,12 +11,15 @@ Follow these steps:
 git clone https://github.com/Mayank2177/Prioritizer.ai.git
 
 # Step 2: Navigate to the project directory.
+cd Prioritizer.ai
+
+# Step 3: Navigate to the Frontend directory.
 cd Client
 
-# Step 3: Install the necessary dependencies.
+# Step 4: Install the necessary dependencies.
 npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 5: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
 
