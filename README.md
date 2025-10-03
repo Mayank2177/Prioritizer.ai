@@ -41,6 +41,7 @@ npm run dev
 
 This project is built with:
 
+### Frontend
 - Vite
 - TypeScript
 - React
